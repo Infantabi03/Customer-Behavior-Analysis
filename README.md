@@ -74,6 +74,7 @@ Load .pbix file to view dashboard
 View Report & Presentation
 Check project report document
 Open Gamma presentation for summary
+
 ✅ Conclusion
 
 This project showcases a complete data analytics pipeline, combining programming, database querying, and visualization to transform raw data into meaningful insights.
