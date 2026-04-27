@@ -3,14 +3,20 @@ Data Analysis Project showcasing customer behavior analysis using Python, SQL an
 📊 **Data Analytics Project**
 🔎 **Overview**
 
-This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to delivering actionable insights through visualization and reporting. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation, and final presentation.
+Customer Behavior Analysis
+Overview
+This project presents an end-to-end data analytics workflow analyzing customer shopping behavior. It demonstrates practical skills in data cleaning, exploratory data analysis (EDA), SQL database management, dashboard development, and business reporting. The project covers:
 
-📁** Dataset**
+Loading and analyzing customer data using Python
+Performing data cleaning and feature engineering
+Conducting exploratory data analysis (EDA)
+Running SQL queries using SQL Server (with scripts adaptable for PostgreSQL/MySQL)
+Building an interactive Power BI dashboard
+Creating a structured business report
+Designing a presentation using Gamma
+This project simulates a real-world analytics workflow from raw data to executive-level insights.
 
-The dataset used in this project contains structured data relevant to business analysis. It includes multiple attributes such as categorical and numerical variables that were analyzed to uncover trends, patterns, and insights.
-
-Note: The dataset can be replaced with any similar structured dataset for replication.
-
+Dataset
 **🛠️ Tools & Technologies**
 Python – Data loading, cleaning, and EDA
 Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
